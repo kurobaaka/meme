@@ -25,7 +25,7 @@ for p in range(3):
         print('\n' * 15, ' ' * 117, 'Загрузка', '.' * (o + 1))
         sleep(0.5)
         system('cls||clear')
-print('\n' * 15, ' ' * 107, 'Скачиваю 236гб гей-порно', sep = '')
+print('\n' * 15, ' ' * 107, 'Скачиваю 237гб гей-порно', sep = '')
 sleep(1)
 system('cls||clear')
 for f in range(100):
